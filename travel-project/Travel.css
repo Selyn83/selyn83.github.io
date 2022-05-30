@@ -1,0 +1,42 @@
+body {
+    width: 100%;
+    height: 50vh;
+    margin: 0;
+    background-color:  color: #5b1b33;
+font-family:Script;font-size: 14px;     
+background-image: url(https://i.pinimg.com/564x/e6/45/48/e645485329f33335c53c926b2654e800.jpg);
+}
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+    }
+  form {
+    width: 60vw;
+      max-width: 300px;
+      min-width: 300px;
+      margin: 0 auto;
+    padding-bottom: 2em;
+  }
+  label {
+    display: block;
+      margin: 0.5rem 0;
+      }
+input[type="submit"] {
+    display: block;
+    width: 30%;
+    margin: 1em auto;
+    height: 1.5em;
+    font-size: 1.1rem;
+    background-color: #C4A484;
+    border-color: white;
+    min-width: 50px;
+  }
+textarea {
+  min-height: 100px;
+  width: 100%;
+  padding: 0.625rem;
+  resize: vertical;
+background-color: whitesmoke;
+border: 1px solid #0a0a23;
+color: #0a0a23;
+}
